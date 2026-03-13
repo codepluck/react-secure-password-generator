@@ -58,7 +58,3 @@ Returns the strength of the generated password (Weak, Intermediate, Strong).
 ## 🛠 Contributing
 
 Feel free to submit issues or pull requests to enhance this component.
-
-## 📜 License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
