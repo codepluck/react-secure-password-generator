@@ -55,6 +55,3 @@ Returns the strength of the generated password (Weak, Intermediate, Strong).
 - **Adjust Strength:** Modify the length and character set to create a stronger password.
 - **Enable Storage:** Choose whether to store passwords securely in your browser.
 
-## Contributing
-
-Feel free to submit issues or pull requests to enhance this component.
