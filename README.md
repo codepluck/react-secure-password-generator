@@ -1,8 +1,8 @@
-# 🔐 Password Generator React Component
+#  Password Generator React Component
 
 A secure and customizable password generator component built for React with TypeScript.
 
-## 🚀 Features
+##  Features
 
 - Generate strong, random passwords with customizable options.
 - Copy passwords to clipboard instantly.
@@ -11,11 +11,11 @@ A secure and customizable password generator component built for React with Type
 - Provides a password strength meter for better security awareness.
 - User-friendly UI with tooltips for enhanced experience.
 
-## 📦 Installation
+##  Installation
 
 Copy the `PasswordGenerator.tsx` file into your React project.
 
-## 🔧 Usage
+##  Usage
 
 Import and use the `PasswordGenerator` component in your React project:
 
@@ -27,7 +27,7 @@ function App() {
 }
 ```
 
-## ⚙️ Props
+##  Props
 
 | Prop Name          | Type    | Default | Description                                 |
 | ------------------ | ------- | ------- | ------------------------------------------- |
@@ -37,7 +37,7 @@ function App() {
 | `includeNumbers`   | boolean | true    | Include numbers in the password.            |
 | `includeSymbols`   | boolean | true    | Include special characters in the password. |
 
-## 🛠 Functions & API
+## Functions & API
 
 ### `generatePassword()`
 Generates a random password based on selected criteria.
@@ -48,13 +48,13 @@ Copies the generated password to the clipboard and stores it if enabled.
 ### `getPasswordStrength(password: string)`
 Returns the strength of the generated password (Weak, Intermediate, Strong).
 
-## 🔄 Actions
+## Actions
 
 - **Generate Password:** Click the "Generate" button to create a new password.
 - **Copy Password:** Click the "Copy" button to save it to your clipboard.
 - **Adjust Strength:** Modify the length and character set to create a stronger password.
 - **Enable Storage:** Choose whether to store passwords securely in your browser.
 
-## 🛠 Contributing
+## Contributing
 
 Feel free to submit issues or pull requests to enhance this component.
